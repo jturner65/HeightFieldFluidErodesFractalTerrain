@@ -2,10 +2,8 @@ package sqSqErosionSimPkg;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Calendar;
 import java.util.HashMap;
 import java.util.HashSet;
-import java.util.Set;
 
 /**
  * class to hold all globally defined static consts (gui constants defined in myGui)

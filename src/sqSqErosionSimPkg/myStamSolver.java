@@ -1,7 +1,5 @@
 package sqSqErosionSimPkg;
 
-import sqSqErosionSimPkg.myParticle;
-
 public class myStamSolver {
 	private sqSqErosionSimGlobal p;
 //	private myGui gui;
